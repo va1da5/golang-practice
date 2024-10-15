@@ -16,3 +16,5 @@ go work use xgrep
 ## References
 
 - [Tutorial: Getting started with multi-module workspaces](https://go.dev/doc/tutorial/workspaces)
+- [Go by Example](https://gobyexample.com/)
+- [Understanding Go's Empty Interface](https://matthewsetter.com/go-empty-interface/)
