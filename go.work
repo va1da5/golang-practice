@@ -6,4 +6,6 @@ use (
 	./curl
 	./egrep
 	./jq
+	./rce
+	./wrapper
 )

@@ -1,5 +1,7 @@
 # SQL
 
+TBD
+
 ## References
 
 - [lms.sql](https://github.com/kramitsingh03/LeaveApplication/blob/b8d81f6ebb03e356bc2f26ebf6ab6f75469449c4/lms.sql)
